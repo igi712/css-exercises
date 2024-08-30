@@ -1,0 +1,16 @@
+.pinkie {
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#blue {
+    font-size: xx-large;
+    color: blue;
+}
+.big {
+    font-size: x-large;
+}
+#greenbg {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: large;
+}
