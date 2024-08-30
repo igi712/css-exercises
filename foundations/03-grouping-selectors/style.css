@@ -7,6 +7,5 @@
 }
 .blackbutton, .yellowbutton {
     font-family: Helvetica, "Times New Roman", sans-serif;
-    font-size: xx-large;
-    border: 200%;
+    font-size: 28px;
 }
